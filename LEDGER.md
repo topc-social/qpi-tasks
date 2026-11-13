@@ -8,3 +8,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #1: Set up QPI's task board and project page | 4 | provisional | https://github.com/topc-social/qpi-tasks/issues/1 |
 | 2 | 2026-11-12 | Kamal Khatwani (via Claude) | Work (99%) on #1: Set up QPI's task board and project page | 346 | provisional | https://github.com/topc-social/qpi-tasks/issues/1 |
+| 3 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #3: Try YouPI PG and see if QPI can be built on it | 8 | provisional | https://github.com/topc-social/qpi-tasks/issues/3 |
+| 4 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #3: Try YouPI PG and see if QPI can be built on it | 792 | provisional | https://github.com/topc-social/qpi-tasks/issues/3 |
